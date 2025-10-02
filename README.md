@@ -565,7 +565,6 @@ Free and open source is a community effort, and there's only really so many hour
     >
   </a>
 
-
 </details>
 
 <details>
