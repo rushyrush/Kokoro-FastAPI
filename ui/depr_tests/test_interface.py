@@ -54,7 +54,7 @@ def test_interface_html_links():
 
         # Check for required links
         assert 'href="https://huggingface.co/hexgrad/Kokoro-82M"' in html.value
-        assert 'href="https://github.com/remsky/Kokoro-FastAPI"' in html.value
+        assert 'href="https://github.com/rushyrush/Kokoro-FastAPI"' in html.value
         assert "Kokoro-82M HF Repo" in html.value
         assert "Kokoro-FastAPI Repo" in html.value
 
